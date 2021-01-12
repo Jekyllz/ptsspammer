@@ -2,7 +2,7 @@
 
 
 echo "these pts are available"
-/bin/ls /dev/pts
+ls /dev/pts
 echo "which pts do you want to annoy? : "
 read ans
 
