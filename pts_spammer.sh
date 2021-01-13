@@ -6,8 +6,8 @@ w
 echo "which pts do you want to annoy? : "
 read n
 echo "options: "
-echo "warning     1"
-echo "spam random 2"
+echo "warning & kill 1"
+echo "spam random    2"
 read nn
 if [ $nn -eq 1 ];
 then
